@@ -16,6 +16,7 @@ public class StudentExam2 {
 		System.out.println ("s2.math : " + s2.math);
 		System.out.println ("s2.eng : " + s2.eng);
 		
+		
 		s2.eng = 0;
 		System.out.println ("s2.eng : " + s2.eng);
 		
