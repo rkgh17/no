@@ -6,7 +6,7 @@ public class Student {
 	public int math; // 수학점수
 	public int eng; // 영어점수
 	
-	public Student ( ) {
+	public Student ( ) { // 생성자
 		name = "황지훈";
 		kor = 80;
 		math = 80;
